@@ -38,7 +38,7 @@
 #     print("Fail")
     
     
-# Question 4: Fruit Ripeness Checker
+# Question 4: Fruit Ripeness Checker 
 fruit = "Banana"
 color = "Yellow"
 
