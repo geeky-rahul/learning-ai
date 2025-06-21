@@ -13,27 +13,26 @@
 # Question 2: Movie Ticket Price
 # age = int(input("Enter your age: "))
 # day = "Wednesday"
-# price = 12 if age>=18 else 8
+# price = 12 if age >= 18 else 8
 
 # if day == "Wednesday":
 #     price -= 2
 
-# print("Ticket price for you is",price)
+# print("Ticket price for you is", price)
 
 
 # Question 3: Grade Calculator
 # score = 110
-
-# if score>100:
+# if score > 100:
 #     print("Enter your correct score")
 #     exit()
-# if score>=90:
+# if score >= 90:
 #     print("A")
-# elif score>=80:
+# elif score >= 80:
 #     print("B")
-# elif score>=70:
+# elif score >= 70:
 #     print("C")
-# elif score>=60:
+# elif score >= 60:
 #     print("D")
 # else:
 #     print("Fail")

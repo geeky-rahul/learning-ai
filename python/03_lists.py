@@ -38,4 +38,4 @@ print(tea_varities) # Output: ['Black', 'Lemon', 'Ginger', 'Herbal']
 print(tea_varities.remove("Ginger")) # Output None
 print(tea_varities)
 print(tea_varities.insert(1, "Green")) # Output
-print(tea_varities)
+
