@@ -11,5 +11,5 @@ print(all_flowers)
 (rose, lily, lotus) = flowers
 print(rose)
 print(lily)
-print(lotus)s
+print(lotus)
 
