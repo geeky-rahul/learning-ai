@@ -6,4 +6,4 @@ This repository contains all my learning materials and practice files related to
 
 - `python/`: Python basics and practice programs.
 
-Stay tuned for more updates! 🚀
+Stay tuned for more updates! 
