@@ -1,6 +1,6 @@
 # AI Learning Journey
 
-This repository contains all my learning materials and practice files related to AI, starting from Python basics and moving through essential libraries like NumPy, Pandas, and Data Visualization.
+This repository contains all my learning materials and practice files related to AI, starting from Python basics and moving through essential libraries like NumPy, Pandas, Data Visualization, and Machine Learning projects.
 
 ---
 
@@ -29,8 +29,18 @@ Comprehensive guides and notebooks:
 - Feature Extraction and Data Extraction
 - Sample CSV datasets included
 
-### 🔹 `data_visualization/` – Data Visualization
-- Getting started with `matplotlib`
+### 🔹 `data_visualization/` – Data Visualization Techniques
+Learning how to visualize data using:
+- `matplotlib` basics
+- Distribution, Categorical, Matrix, and Regression plots with `seaborn`
+- Interactive plots using `plotly` and `cufflinks`
+- Includes sample images and visual examples
+
+### 🔹 `machine_learning/` – Hands-on ML Projects
+Beginner-friendly ML projects with datasets:
+- **Heart Disease Prediction** – with model building and evaluation
+- **Insurance Cost Prediction** – using regression techniques
+- CSV datasets included for practice
 
 ---
 
